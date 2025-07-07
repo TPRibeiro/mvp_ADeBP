@@ -48,7 +48,7 @@ O modelo preditivo **não foi implementado** neste projeto. O foco esteve em com
 ## 👩‍💻 Autora
 
 **Thayssa Ribeiro**  
-Projeto acadêmico desenvolvido como parte do curso de pós-graduação em Ciência de Dados e Analytics.
+Projeto acadêmico desenvolvido como parte do curso de pós-graduação em Ciência de Dados e Analytics na PUC-Rio.
 
 ---
 
